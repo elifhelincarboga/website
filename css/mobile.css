@@ -1,0 +1,14 @@
+#navbar{
+  flex-direction: column;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  overflow: hidden;
+}
+
+#training .items{
+ flex-direction: column;
+}
+
+#training .items .item{
+  width: 100%;
+}
